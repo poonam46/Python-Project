@@ -1,0 +1,4 @@
+1002, Quiz Compitition, 10/04/2026, 12/04/2026, 15/04/2026, 12:00 AM, Harshal Pawar, 100, 40
+1001, Reading Compitition, 04/04/2026, 06/04/2026, 08/04/2026, 11:00 AM, Prashant Jadhav, 50, 50
+1003, Tech Fest, 10/04/2026, 11/04/2026, 13/04/2026, 1:00 PM, Rohan More, 100, 150
+1004, Coding Compitition, 08/04/2026, 10/04/2026, 12/04/2026, 11:00 AM, Madhuri Thoke, 60, 100
